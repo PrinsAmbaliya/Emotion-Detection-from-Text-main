@@ -35,7 +35,7 @@ Reference:-
 <img width="1920" height="1080" alt="img-1" src="https://github.com/user-attachments/assets/25ac507b-6f32-4aa4-bb1b-1a65ca3f0dde" />
 <img width="1920" height="1080" alt="img-2" src="https://github.com/user-attachments/assets/b7a6e915-2d76-4c2e-9c10-b8fe675e2771" />
 <img width="1920" height="1080" alt="img-3" src="https://github.com/user-attachments/assets/0ac48f33-875f-47ff-bd0c-9c215c8e994c" />
-![img](screenshot/img3.jpg)
+![img](screenshot/img-3.jpg)
 
 
 
