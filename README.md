@@ -38,6 +38,14 @@ Reference:-
 <img width="1920" height="1080" alt="img-4" src="https://github.com/user-attachments/assets/0b9be95a-516d-48ca-906a-aaefbdf8b2a9" />
 <img width="1920" height="1080" alt="img-5" src="https://github.com/user-attachments/assets/06b2c750-8519-4b7f-884a-f53edbda694a" />
 
+---
+
+## Author
+Prins Ambaliya
+
+GitHub: PrinsAmbaliya
+
+LinkedIn: https://www.linkedin.com/in/prins-ambaliya-bb7546367
 
 
 
